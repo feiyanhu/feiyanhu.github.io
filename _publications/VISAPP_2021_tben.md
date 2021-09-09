@@ -12,4 +12,4 @@ citation: 'Feiyan Hu, Eva Mohedano, Noel O&apos;Connor, Kevin McGuinness. (2021)
 
 [Download paper here](http://feiyanhu.github.io/files/paper1.pdf)
 
-#Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+%Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
