@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Feiyan Hu, PhD"
+  name             : "Feiyan Hu, Ph.D"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Dublin, Ireland"
   employer         : 
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=feiyan+hu"
   googlescholar    : "https://scholar.google.com/citations?user=LVnJnmsAAAAJ&hl=en&authuser=1"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Feiyan-Hu-2"
