@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in School of EECS, Queen Mary University of London, 2008 - 2012
-* B.Sc. in International School, Beijing University of Telecommunications and Posts, 2008 - 2012
-* Ph.D in Computer Science, Dublin City University, 2012 - 2016
+* (2008 - 2012) B.Sc. in Telecommunications Enginerring and Management, School of EECS, Queen Mary University of London
+* (2008 - 2012) B.Sc. in Telecommunications Enginerring and Management, International School, Beijing University of Telecommunications and Posts
+* (2012 - 2016) Ph.D in Computer Science, Dublin City University
 
 Work experience
 ======
