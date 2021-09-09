@@ -23,6 +23,10 @@ Work experience
 
 * 2016 - Now: Postdoctoral Researcher
   * Dublin City University
+  * Sychronoss Image Aestetic project
+  * Huawei Video Retrieval project
+  * Huawei Autonomous Vehicle project
+  * DAA Social Distancing project
   
 Skills
 ======
