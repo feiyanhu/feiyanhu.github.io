@@ -9,6 +9,6 @@ venue: 'CBMI'
 citation: 'GM Venkatesh*, Feiyan Hu*, Noel E OConnor, Alan F Smeaton, Zhen Yang, Suzanne Little. (2019). &quot;Saliency guided 2d-object annotation for instrumented vehicles.&quot; <i>International Conference on Content-Based Multimedia Indexing (CBMI) 2019</i>. '
 ---
 <!--- This paper is about the number 1. The number 2 is left for future work.-->
-[Download paper here](https://www.researchgate.net/profile/Feiyan-Hu-2/publication/334657004_Saliency_Guided_2D-Object_Annotation_for_Instrumented_Vehicles/links/5d389de792851cd04684284c/Saliency-Guided-2D-Object-Annotation-for-Instrumented-Vehicles.pdf)
+[Download paper here](http://doras.dcu.ie/23595/1/PID6036831%20%282%29.pdf)
 
 <!--- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1) .-->
