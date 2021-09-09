@@ -10,6 +10,5 @@ citation: 'Feiyan Hu, Noel E O&apos;Connor, Alan F Smeaton, Suzanne Little. (202
 ---
 <!--- This paper is about the number 1. The number 2 is left for future work.-->
 [Download paper here](http://feiyanhu.github.io/files/ICPR_2020_saldettrack.pdf)
-[Github link here](https://github.com/feiyanhu/FastSal)
 
 <!--- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1) .-->
