@@ -27,6 +27,7 @@ Work experience
   * Huawei Video Retrieval project
   * Huawei Autonomous Vehicle project
   * DAA Social Distancing project
+
 <!---  
 Skills
 ======
