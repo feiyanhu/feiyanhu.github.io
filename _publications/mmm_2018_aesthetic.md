@@ -6,7 +6,7 @@ permalink: /publication/mmm_2018_aesthetic
 date: 2018-02-05
 venue: 'MMM'
 #paperurl: 'https://arxiv.org/pdf/2008.11151.pdf'
-citation: 'Feiyan Hu, Alan F Smeaton. (2018). &quot;Image aesthetics and content in selecting memorable keyframes from lifelogs.&quot; <i>International Conference on Multimedia Modeling (MMM) 2018</i>. '
+citation: 'Feiyan Hu, Alan F Smeaton. &quot;Image aesthetics and content in selecting memorable keyframes from lifelogs.&quot; <i>International Conference on Multimedia Modeling (MMM 2018)</i>. '
 ---
 <!--- This paper is about the number 1. The number 2 is left for future work.-->
 [Download paper here](http://doras.dcu.ie/22161/1/MMM2018_Feiyan.pdf)
