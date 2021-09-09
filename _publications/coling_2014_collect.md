@@ -1,7 +1,7 @@
 ---
 title: "Formulating Queries for Collecting Training Examples in Visual Concept Classification"
 collection: publications
-permalink: /publication/cbmi_2019_salobj
+permalink: /publication/coling_2014_collect
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2014-08-23
 venue: 'COLINGW'
