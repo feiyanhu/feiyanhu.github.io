@@ -11,21 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in School of EECS, Queen Mary University of London, 2008 - 2012
+* B.Sc. in International School, Beijing University of Telecommunications and Posts, 2008 - 2012
+* Ph.D in Computer Science, Dublin City University, 2012 - 2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2010: Intern
+  * Cisco Shanghai
+  * Presales team, network restructuring project
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2016 - Now: Postdoctoral Researcher
+  * Dublin City University
   
 Skills
 ======
