@@ -6,7 +6,7 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2021-01-23
 venue: 'VISAPP 2021'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Feiyan Hu, Eva Mohedano, Noel O&quot;Connor, Kevin McGuinness. (2021). &quot;Temporal Bilinear Encoding Network of Audio-Visual Features at Low Sampling Rates.&quot; <i>16th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications (VISAPP 2021)</i>. 1(1).'
+citation: 'Feiyan Hu, Eva Mohedano, Noel O&apos;Connor, Kevin McGuinness. (2021). &quot;Temporal Bilinear Encoding Network of Audio-Visual Features at Low Sampling Rates.&quot; <i>16th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications (VISAPP 2021)</i>. 1(1).'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
