@@ -27,7 +27,7 @@ Work experience
   * Huawei Video Retrieval project
   * Huawei Autonomous Vehicle project
   * DAA Social Distancing project
-  
+<!---  
 Skills
 ======
 * Skill 1
@@ -36,6 +36,7 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+--->
 
 Publications
 ======
