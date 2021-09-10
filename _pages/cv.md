@@ -21,7 +21,7 @@ Work experience
   * Cisco Shanghai
   * Presales team, network restructuring project
 
-* 2016 - Now: Postdoctoral Researcher
+* 2016 - Present: Postdoctoral Researcher
   * Dublin City University
   * Sychronoss Image Aestetic project
   * Huawei Video Retrieval project
