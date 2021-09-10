@@ -6,7 +6,7 @@ permalink: /publication/bibm_2014_periodicity
 date: 2014-11-02
 venue: 'BIBM'
 #paperurl: 'https://arxiv.org/pdf/2008.11151.pdf'
-citation: 'Hu, Feiyan , Smeaton, Alan F.  and Newman, Eamonn. &quot;Periodicity detection in lifelog data with missing and irregularly sampled data.&quot; <i>The IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2014)</i>. '
+citation: 'Feiyan Hu, Alan F Smeaton, Eamonn Newman. &quot;Periodicity detection in lifelog data with missing and irregularly sampled data.&quot; <i>The IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2014)</i>. '
 ---
 <!--- This paper is about the number 1. The number 2 is left for future work.-->
 [Download paper here](http://doras.dcu.ie/20261/1/QSPH-2014.pdf)
