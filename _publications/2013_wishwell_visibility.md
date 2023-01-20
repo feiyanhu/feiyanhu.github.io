@@ -1,7 +1,7 @@
 ---
 title: "Visibility of wearable sensors as measured using eye tracking glasses"
 collection: publications
-permalink: /publication/wishwell_2013_visibility
+permalink: /publication/2013_wishwell_visibility
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2013-12-03
 venue: 'WISHWell'
