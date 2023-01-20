@@ -1,12 +1,12 @@
 ---
-title: "TinyHD: a Computationally Efficient Network for Visual Saliency Prediction"
+title: "TinyHD: Efficient Video Saliency Prediction with Heterogeneous Decoders using Hierarchical Maps Distillation"
 collection: publications
 permalink: /publication/2023_wacv_tinyhd
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-01-05
 venue: 'WACV'
 #paperurl: 'https://arxiv.org/pdf/2008.11151.pdf'
-citation: 'Feiyan Hu, Kevin McGuinness. &quot;TinyHD: a Computationally Efficient Network for Visual Saliency Prediction.&quot; <i>International Conference on Pattern Recognition (ICPR 2020)</i>. '
+citation: 'Feiyan Hu, Simone Palazzo, Federica Proietto Salanitri, Giovanni Bellitto, Morteza Moradi, Concetto Spampinato, Kevin McGuinness. &quot;TinyHD: Efficient Video Saliency Prediction with Heterogeneous Decoders using Hierarchical Maps Distillation.&quot; <i>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2023</i>. '
 ---
 <!--- This paper is about the number 1. The number 2 is left for future work.-->
 [Download paper here](https://doras.dcu.ie/27962/1/0425.pdf)
