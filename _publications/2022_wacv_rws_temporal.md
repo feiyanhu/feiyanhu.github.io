@@ -1,7 +1,7 @@
 ---
 title: "Improving person re-Identification with temporal constraints"
 collection: publications
-permalink: /publication/wacv2022_rws
+permalink: /publication/2022_wacv_rws_temporal
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022-01-08
 venue: 'WACV 2022 Workshop'
