@@ -1,7 +1,7 @@
 ---
 title: "Using periodicity intensity to detect long term behaviour change"
 collection: publications
-permalink: /publication/ubicompw_2015_periodicity_intensity
+permalink: /publication/2015_ubicompw_periodicity_intensity
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2015-09-07
 venue: 'UbiComp'
