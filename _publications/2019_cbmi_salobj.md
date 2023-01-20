@@ -1,7 +1,7 @@
 ---
 title: "Saliency guided 2D-object annotation for instrumented vehicles"
 collection: publications
-permalink: /publication/cbmi_2019_salobj
+permalink: /publication/2019_cbmi_salobj
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2019-09-04
 venue: 'CBMI'
