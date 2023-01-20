@@ -1,7 +1,7 @@
 ---
 title: "Image aesthetics and content in selecting memorable keyframes from lifelogs"
 collection: publications
-permalink: /publication/mmm_2018_aesthetic
+permalink: /publication/2018_mmm_aesthetic
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2018-02-05
 venue: 'MMM'
