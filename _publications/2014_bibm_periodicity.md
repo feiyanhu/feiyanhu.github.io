@@ -1,7 +1,7 @@
 ---
 title: "Periodicity detection in lifelog data with missing and irregularly sampled data"
 collection: publications
-permalink: /publication/bibm_2014_periodicity
+permalink: /publication/2014_bibm_periodicity
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2014-11-02
 venue: 'BIBM'
