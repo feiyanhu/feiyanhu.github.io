@@ -1,7 +1,7 @@
 ---
 title: "Periodicity intensity for indicating behaviour shifts from lifelog data"
 collection: publications
-permalink: /publication/bibs_2016_periodicity_intensity
+permalink: /publication/2016_bibm_periodicity_intensity
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2016-12-15
 venue: 'BIBM'
