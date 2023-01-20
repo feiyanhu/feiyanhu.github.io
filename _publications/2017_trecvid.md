@@ -1,7 +1,7 @@
 ---
 title: "Dublin City University participation in the VTT track at TRECVid 2017"
 collection: publications
-permalink: /publication/trecvid_2017
+permalink: /publication/2017_trecvid
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2017-11-13
 venue: 'TRECVid workshop'
