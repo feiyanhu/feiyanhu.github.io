@@ -1,7 +1,7 @@
 ---
 title: "Insight Centre for Data Analytics (DCU) at TRECVid 2014: instance search and semantic indexing tasks"
 collection: publications
-permalink: /publication/treckvid_2014
+permalink: /publication/2014_treckvid
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2014-11-08
 venue: 'TRECVid'
