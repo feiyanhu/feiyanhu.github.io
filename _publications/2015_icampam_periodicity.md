@@ -1,7 +1,7 @@
 ---
 title: "Behavioral periodicity detection from 24h waveform wrist accelerometry"
 collection: publications
-permalink: /publication/icampam_2015_periodicity
+permalink: /publication/2015_icampam_periodicity
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2015-06-10
 venue: 'ICAMPAM'
