@@ -8,6 +8,6 @@ citation: 'Ashish Singh, Antonio Bevilacqua, Thach Le Nguyen, Feiyan Hu, Kevin M
 ---
 <!--- This paper is about the number 1. The number 2 is left for future work.-->
 [Download paper here](https://arxiv.org/pdf/2210.00507.pdf)
-[Github link here]([https://github.com/feiyanhu/tinyHD](https://github.com/mlgig/BodyMTS_2021))
+[Github link here](https://github.com/mlgig/BodyMTS_2021)
 
 <!--- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1) .-->
