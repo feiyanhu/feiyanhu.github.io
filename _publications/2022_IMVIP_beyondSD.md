@@ -3,7 +3,7 @@ title: "Beyond Social Distancing: Application of real-world coordinates in a mul
 collection: publications
 permalink: /publication/2022_IMVIP_beyondSD
 date: 2022-08-31
-venue: 'IMVIP 2022'
+venue: 'IMVIP'
 citation: 'Frances Ryan, Feiyan Hu, Julia Dietlmeier, Noel E. O&apos;Connor and Kevin McGuinness. &quot;Beyond Social Distancing: Application of real-world coordinates in a multi-camera system with privacy protection.&quot; <i>24th Irish Machine Vision and Image Processing Conference (IMVIP 2022)</i>. '
 ---
 <!--- This paper is about the number 1. The number 2 is left for future work.-->
