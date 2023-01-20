@@ -1,7 +1,7 @@
 ---
 title: "Behavioral periodicity detection from 24h wrist accelerometry and associations with cardiometabolic risk and health related quality of life"
 collection: publications
-permalink: /publication/journal_biomed_2016
+permalink: /publication/2016_journal_biomed
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2016-07-04
 venue: 'BioMed Research International'
