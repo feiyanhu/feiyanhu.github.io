@@ -1,7 +1,7 @@
 ---
 title: "Dublin&apos;s participation in the predicting media memorability task"
 collection: publications
-permalink: /publication/mediaeval_2018
+permalink: /publication/2018_mediaeval_memo
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2018-10-29
 venue: 'MediaEval'
