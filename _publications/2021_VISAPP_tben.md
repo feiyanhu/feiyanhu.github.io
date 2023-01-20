@@ -1,7 +1,7 @@
 ---
 title: "Temporal Bilinear Encoding Network of Audio-Visual Features at Low Sampling Rates"
 collection: publications
-permalink: /publication/VISAPP_2021_tben
+permalink: /publication/2021_VISAPP_tben
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-01-23
 venue: 'VISAPP'
