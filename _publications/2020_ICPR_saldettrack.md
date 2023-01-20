@@ -1,7 +1,7 @@
 ---
 title: "Utilising Visual Attention Cues for Vehicle Detection and Tracking"
 collection: publications
-permalink: /publication/ICPR_2020_saldettrack
+permalink: /publication/2020_ICPR_saldettrack
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020-12-31
 venue: 'ICPR'
