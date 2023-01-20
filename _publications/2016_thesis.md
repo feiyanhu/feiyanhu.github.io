@@ -1,7 +1,7 @@
 ---
 title: "Periodicity Detection and its Application in Lifelog Data"
 collection: publications
-permalink: /publication/thesis_2016
+permalink: /publication/2016_thesis
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2016-09-16
 venue: 'PhD Thesis'
