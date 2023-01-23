@@ -60,4 +60,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer for WACV 2023.
+* Reviewer for ACM MultiMedia 2022.
+* Reviewer for ICMR 2021.
